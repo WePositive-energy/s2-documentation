@@ -11,8 +11,8 @@ const config: Config = {
   favicon: 'img/Logo-S2-no-text.svg',
 
   // Set the production url of your site here
-  url: 'https://docs.s2standard.org/',
-  baseUrl: '/',
+  url: 'https://wepositive-energy.github.io',
+  baseUrl: 's2-documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
